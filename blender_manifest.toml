@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 id = "deform_to_corrective"
 version = "0.3.0"
 name = "Deform to Corrective"
-tagline = "Save evaluated deformation as a live pre-rig corrective Shape Key"
+tagline = "Save evaluated deformation as live pre-rig corrective Shape Key"
 maintainer = "Oleksandr Andrusenko"
 type = "add-on"
 
